@@ -1,5 +1,5 @@
-# Art Class
-Official website of Art Class
+# Placeholer
+Official website of Placeholer
 
 ### Deploy
 [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/art-class/v4)
